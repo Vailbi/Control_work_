@@ -89,7 +89,7 @@ sudo service mysql status
 ![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/3.png?raw=true)
 4.
 
-Устанавливаем deb-пакет через из официального репозитория 
+Устанавливаем deb-пакет из официального репозитория 
 ```bash
 apt install nginx
 ```
