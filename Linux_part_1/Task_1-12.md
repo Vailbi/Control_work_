@@ -53,8 +53,8 @@ mv "Animals" "Друзья человека"
 
 </details>
 
-![pictures for project]([)](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-1.png?raw=true)
-![pictures for project]([)](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-2.png?raw=true)
+![pictures for project](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-1.png?raw=true)
+![pictures for project](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-2.png?raw=true)
 
 2.
 
