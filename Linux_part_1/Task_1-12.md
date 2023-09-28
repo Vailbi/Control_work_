@@ -53,8 +53,8 @@ mv "Animals" "Друзья человека"
 
 </details>
 
-![pictures for project](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-1.png?raw=true)
-![pictures for project](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-2.png?raw=true)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-1.png?raw=true)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/1-2.png?raw=true)
 
 2.
 
@@ -71,7 +71,7 @@ ls
 
 </details>
 
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/2.png)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/2.png?raw=true)
 
 3.
 <details>
@@ -86,8 +86,7 @@ sudo service mysql status
 
 </details>
 
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/3.png)
-
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/3.png?raw=true)
 4.
 
 Устанавливаем deb-пакет через из официального репозитория 
@@ -103,19 +102,19 @@ dpkg -i "Название пакета"
 ```bash
 dpkg -r nginx
 ```
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/4.png)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/4.png?raw=true)
 
 5.
 
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/5.png)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/5.png?raw=true)
 
 6.
 
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/diagram.png)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/diagram.png?raw=true)
 
 7.
 
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/7.png)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/7.png?raw=true)
 
 8.
 
@@ -204,7 +203,7 @@ show tables;
 
 </details>
 
-![pictures for project](/Users/fedorhoruzij/Desktop/Control_work/Linux_part_1/screenshots/8.png)
+![pictures](https://github.com/Vailbi/Control_work_/blob/main/Linux_part_1/screenshots/8.png?raw=true)
 
 9.
 
